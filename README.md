@@ -1,6 +1,6 @@
-- 👋 Hi, I’m new to GitHub and am teaching myself Python. 
+- 👋 Hi
 - 👀 I’m interested in creating games, artificial intelligence, security, and information assurance.
-- 🌱 I’m currently learning how to use UE5 on Linux and studying for the Sec+ exam.
+- 🌱 I’m currently researching and implementing ML through Splunk and developing exploits.
 - 💞️ I’m looking to collaborate on anything.
 
 
