@@ -1,7 +1,6 @@
 - 👋 Hi
 - 👀 I’m interested in creating games, artificial intelligence, security, and information assurance.
 - 🌱 I’m currently researching and implementing ML through Splunk and developing exploits.
-- 💞️ I’m looking to collaborate on anything.
 
 
 <!---
